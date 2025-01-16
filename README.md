@@ -1,17 +1,17 @@
 # Firebase Codelab: FriendlyChat
 
-**Name:** MUHAMMAD MUKHRIZ ABADI BIN MUHAMAD REZAL
-**Student ID :** 2023657294
-**Group :** T5CDCS2703B2
-**Lecture Name :** MUHAMMAD ATIF BIN RAMLAN
+- Name: MUHAMMAD MUKHRIZ ABADI BIN MUHAMAD REZAL
+- Student ID : 2023657294
+- Group : T5CDCS2703B2
+- Lecture Name : MUHAMMAD ATIF BIN RAMLAN
 
-##Project Background : 
+## Project Background : 
 
-###Purpose
+### Purpose
 - The project is designed to teach how Firebase services can enhance web applications.
 - It provides hands-on experience with Firebase tools, including Authentication, Firestore (database), Hosting, and more.
 
-###Objective
+### Objective
 - To build a fully functional web application that showcases Firebase's capabilities.
 - Learn how to: 
   - Set up a Firebase project.
@@ -19,7 +19,7 @@
   - Store and retrieve data using Firestore.
   - Deploy the app to Firebase Hosting.
 
-###Discussion : 
+## Discussion : 
   The Firebase App Hosting lab exercise provided a hands-on experience with creating and deploying a web application using Firebase Hosting, a rapid and secure solution for both static and dynamic content. One of the main challenges I faced was making sure the Firebase and Angular CLIs were installed and launched properly in the appropriate file location. I had to fix a few permission and setup issues before I could get Firebase commands to work properly. I also had to handle the firebase.json and.firebaserc files with care to make sure the project structure and deployment parameters were set up correctly. One of the key takeaways from the exercise was the importance of the firebase init command, which helps create the configuration files needed to set up hosting. Additionally, the lab showed me how simple deployment involves using Firebase to distribute static files, such as HTML, CSS, and JavaScript, to a worldwide content delivery network. I gained useful experience working with several environments, including development and production, and how to efficiently transition between them by managing several projects on Firebase Hosting.
 
   A service called Firebase Authentication offers web and mobile applications reliable, secure, and simple user authentication. Numerous authentication methods are supported, such as phone numbers, email addresses, passwords, and third-party sources like GitHub, Facebook, and Google , but for my project I only use email addresses. With capabilities like session management and token-based authentication, Firebase Authentication improves security while expediting the user sign-in and sign-up process. In my experience, setting up user management in apps is more realistic when Firebase Authentication is used in a lab or project. Setting up Firebase in my project, adding the authentication SDK to your front-end code, and turning on authentication providers are usually the first steps in using Firebase Console. This enables developers to access user profiles, handle user statuses, and secure routes with efficiency. 
